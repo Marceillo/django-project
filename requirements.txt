@@ -1,2 +1,3 @@
 # Your requirements go here
 pip3 freeze --local > requirements.txt
+pip3 freeze --local > requirements.txt
